@@ -1,2 +1,3 @@
 # learngit_myrep
-just testing guys! i'm rookie git ....for now ;)
+just testing guys! i'm rookie git ....for now ;) so don't look at project contents....i'm still testing git commands and so on....
+maybe in the next future i could contribute with some software that matter (i hope...)
