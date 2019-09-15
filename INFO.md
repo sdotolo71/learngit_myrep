@@ -1,0 +1,1 @@
+Info added file after a merge from branch
